@@ -1,0 +1,149 @@
+body{
+  margin:0;
+}
+
+.first{
+  align-items: center;
+  height: 54px;
+  width: 100%;
+  text-align: center;
+  padding-top: .75px;
+  
+}
+
+.menubar{
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 0;
+}
+
+
+.learn{
+  cursor: pointer;
+  text-decoration: underline; 
+}
+.page1{
+  width: 100%;
+  background-image: url(model_3.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 551px;
+}
+
+.logo{
+  width: 110px;
+  height: 13px;
+  padding-top: 15;
+  cursor: pointer;
+  
+}
+
+.models,.model3,.modelx,.modely,.solarroof,.solarpanels,.powerwall,.shop,.account,.menu{
+  height: 16px;
+  width: auto;
+  cursor: pointer;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+.buttons1{
+  padding-top: 320px;
+}
+.b1{
+  height: 35px;
+  width: 150px;
+  margin-left:40px ;
+  border-radius: 3px;
+  background-color: rgba(23, 26, 32, 0.8);
+  border: none;
+  color:white;
+}
+.b2{
+  height: 35px;
+  width: 150px;
+  margin-left:40px ;
+  border-radius: 3px;
+  background-color: aliceblue;
+  border: none;
+}
+.b3{
+  height: 35px;
+  width: 150px;
+  margin-left:40px ;
+  border-radius: 3px;
+  background-color:rgba(23, 26, 32, 1);
+  border: none;
+  color: aliceblue;
+}
+.page2{
+  background-image: url(model_y.jpg);
+  background-size: cover;
+  background-position:center;
+  width: 100%;
+  height: 551px;
+  
+}
+.content1,.content2,.content3,.content4,.content5,.content6{
+  width: 100%;
+  height: 100vh;
+  padding-top: 1vh;
+  padding-bottom: 15vh;
+  text-align: center;
+}
+.content7{
+  text-align: center;
+}
+.content2.h1{
+  font-size: 3rem;
+}
+.buttons2,.buttons3,.buttons4,.buttons5,.buttons6{
+  padding-top: 350px;
+}
+.buttons7{
+padding-top: 380px;
+}
+
+.page3{
+  background-image: url(model_S.jpg);
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 551px;
+}
+.page4{
+  background-image: url(model_x.jpg);
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 551px;
+}
+.page5{
+  background-image: url(SolarPanels.jpg);
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 551px;
+}
+.page6{
+  background-image: url(SolarRoof.webp);
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 551px;
+}
+.page7{
+  background-image: url(Accessories.jpg);
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 500px;
+}
+.foot{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  text-align: center;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-bottom: 0;
+  
+}
